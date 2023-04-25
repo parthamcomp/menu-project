@@ -2,7 +2,7 @@
 
 Project created as part of course https://www.udemy.com/course/react-tutorial-and-projects-course.
 
-Project displays a list of questions with answers that can be expanded.
+Project displays a list of food menu items with labels to filter according to the meal.
 
 Made in: ReactJS
 
